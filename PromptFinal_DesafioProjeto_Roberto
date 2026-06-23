@@ -1,0 +1,32 @@
+DESAFIO CRIATIVO - PROMPT FINAL "EXTRAINDO INSIGHTS DE CLIENTES BANCÁRIOS"
+**************************************************************************
+
+Atue como analista de experiência do cliente e analista de dados de um banco.
+Sua tarefa é analisar feedback/respostas dos clientes sobre a utilização do home broker para diversificar investimentos, identificando:
+- Facilidade ou dificuldade para encontrar os ativos de interesse
+- Grau de satisfação quanto à eficiência e tempo para concluir operações
+
+Contexto: Feedbacks de clientes bancários relacionados ao índice de satisfação no uso do home broker. A finalidade é medir satisfação quanto à facilidade de busca de ativos e tempo gasto para concluir operações. A análise será usada por gestores de canais digitais para priorizar melhorias e reduzir atritos.
+
+Dados disponíveis: Respostas com data e canal de atendimento, conforme modelo:
+1. Você conseguiu encontrar o ativo de interesse? (Sim/Não)
+2. Você conseguiu concluir com sucesso a operação? (Sim/Não)
+3. Quanto satisfeito ficou com a facilidade em encontrar o ativo? (Notas 1–5)
+4. Quanto satisfeito ficou com o tempo total gasto? (Notas 1–5)
+
+Instruções de análise:
+- Classifique os feedbacks por sentimento, urgência e produto citado
+- Identifique padrões, problemas, elogios e oportunidades
+- Aponte evidências nos dados fornecidos
+- Sugira ações práticas para experiência do cliente e canais digitais
+- Diferencie “quick wins” de mudanças estruturais
+- Priorize insights por impacto no cliente e viabilidade
+
+
+Formato da resposta:
+1. Resumo executivo em até 5 linhas, voltado para gestores
+2. Tabela com tema, sentimento, evidência e ação sugerida
+3. Gráficos com indicadores de performance (taxa de sucesso, tempo médio, NPS médio)
+4. Lista final com as 3 prioridades mais importantes
+
+
